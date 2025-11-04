@@ -3,3 +3,7 @@ python-dotenv==1.0.1
 agno==2.2.6
 openai==2.6.1
 sqlalchemy==2.0.44
+sentence-transformers==5.1.2
+lancedb==0.25.2
+tantivy==0.25.0
+pandas==2.3.3
